@@ -1,0 +1,6 @@
+streamlit
+numpy
+biopython
+matplotlib
+seaborn
+
